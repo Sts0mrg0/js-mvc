@@ -1,9 +1,9 @@
 //Settings for DB connection
 var configs = {
     host: "localhost",
-    user: "MyUser",
-    password: "MyPass",
-    db: 'MyDb',
+    user: "back",
+    password: "Dbnzgblh321",
+    db: 'platform',
 };
 
 module.exports = configs;
