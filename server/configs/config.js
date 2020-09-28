@@ -3,11 +3,7 @@ var configs = {
     host: "localhost",
     user: "MyUser",
     password: "MyPass",
-    db: 'MyDb',
-
-    actionList: {
-        a: 'test'
-    }
+    db: 'MyDb'
 };
 
 module.exports = configs;
